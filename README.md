@@ -1,1 +1,8 @@
 # Cyclone-Intensity-Prediction-Using-Deep-Learning
+
+This project explores the application of deep learning techniques in  the field of cyclone intensity prediction, specifically utilizing five distinct models: Alexnet, VGG16, Basic CNN, Deepphurie and a novel hybrid model that combines image and numerical data. The first part of our study investigates the performance of the Alexnet, VGG16 and Deepphurie convolutional neural networks (CNNs) in processing satellite imagery data. These models are trained on a comprehensive dataset of cyclone images, enabling them to learn complex features and patterns associated with cyclone formation and intensity. The results indicate that these deep learning models can effectively extract relevant features from the images, contributing to the accurate prediction of cyclone intensity. In  addition to image data, we incorporate numerical meteorological data into the prediction process. To this end, we introduce a hybrid model that combines the strengths of both image-based and numerical data-driven predictions. This model leverages the capabilities of recurrent neural networks (RNNs) to process time-series meteorological information in conjunction with CNNs for image analysis. This research provides a substantial contribution to the field of meteorology and disaster management, offering a foundation for the development of more robust and accurate cyclone intensity forecasting systems, ultimately aiding in the protection of vulnerable coastal communities.
+
+I have attached a word document which describes the whole project along with the models and outputs in this repository.
+<BR>
+Do check it out.
+<br>
